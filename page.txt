@@ -1,4 +1,8 @@
 Title: Projectv1 - Master
 Autor: Luis Antonio Calvo Quispe
 Hooby : Anime and Music
+<<<<<<< HEAD
 Year : 2025
+=======
+Year : 2023
+>>>>>>> test

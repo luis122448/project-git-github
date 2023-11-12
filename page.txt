@@ -3,3 +3,5 @@ Autor: Luis Antonio Calvo Quispe
 Hooby : Anime and Music
 Year : 2023
 Univ: No
+
+Bug: Resolved

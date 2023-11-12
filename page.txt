@@ -4,5 +4,12 @@ Hooby : Anime and Music
 Year : 2023
 Univ: No
 Work: GrupoTSI
+Age: 25
 
 Bug: Resolved
+
+Experiment 1
+Experiment 2
+Experiment 3
+
+Modify Temporary

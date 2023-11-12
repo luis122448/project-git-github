@@ -5,7 +5,7 @@ Year : 2023
 Univ: UNMSM
 Work: GrupoTSI
 Age: 25
-Residend: Lima,Peru
+Residend: Lima,
 
 Bug: Resolved
 

@@ -5,6 +5,7 @@ Year : 2023
 Univ: UNMSM
 Work: GrupoTSI
 Age: 25
+Residend: Lima,
 
 Bug: Resolved
 
@@ -13,3 +14,4 @@ Experiment 2
 Experiment 3
 
 Modify Temporary
+
